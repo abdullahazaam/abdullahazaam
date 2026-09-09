@@ -1,6 +1,6 @@
 # Abdullah Azaam
 
-I'm a web development student at Aptech in Karachi. Most of my recent work has been with ASP.NET Core, C#, SQL Server, PHP and Laravel. I enjoy building complete web applications because it gives me a chance to work on the database, backend logic and user interface together.
+I'm a web development student at Aptech in Karachi. I build full-stack applications with ASP.NET Core, C#, SQL Server, PHP and Laravel, alongside interactive frontend experiences with React, TypeScript, Three.js and GSAP. I enjoy working across database design, backend logic and user interfaces, and I deploy projects with Vercel and Railway.
 
 I'm currently looking for an internship, trainee role or junior developer position where I can learn from an experienced team and contribute to real projects.
 
@@ -9,7 +9,9 @@ I'm currently looking for an internship, trainee role or junior developer positi
 - C#, ASP.NET Core MVC, Entity Framework Core and Web APIs
 - SQL Server and MySQL
 - PHP and Laravel
-- HTML, CSS, JavaScript and Bootstrap
+- React, TypeScript, Three.js and GSAP
+- HTML, CSS, JavaScript, Tailwind CSS and Bootstrap
+- Vercel and Railway
 - Git, GitHub and automated tests
 
 ## Projects
@@ -24,17 +26,19 @@ An interactive 3D smart-city intelligence concept built with React, TypeScript, 
 
 My largest ASP.NET Core project so far. It includes a product catalogue, accounts, cart, wishlist, checkout, orders, coupons and admin features. While building it, I spent a lot of time on order access rules, pricing, stock updates and making checkout retries safer.
 
+[Source Code](https://github.com/abdullahazaam/Hamara-Ecommerce)
+
 ### [PathSeeker](https://github.com/abdullahazaam/Path-Seeker)
 
 A Laravel career guidance platform for students and job seekers. It includes assessments, career suggestions, saved resources, bookmarks and role-based areas for users, moderators and administrators.
+
+[Live Demo](https://path-seeker-production.up.railway.app) · [Source Code](https://github.com/abdullahazaam/Path-Seeker)
 
 ### [E-Greetings](https://github.com/abdullahazaam/E-Greetings)
 
 An ASP.NET Core greeting-card application where users can choose a template, personalise a card and schedule it. The project also includes subscriptions, account management and an admin area.
 
-### [Zero Hunger](https://github.com/abdullahazaam/Zero-Hunger)
-
-A PHP and MySQL prototype for coordinating surplus-food donations between donors, NGOs and riders. It tracks requests and deliveries through the different user roles.
+[Live Demo](http://e-greeting.runasp.net/) · [Source Code](https://github.com/abdullahazaam/E-Greetings)
 
 ## What I'm working on now
 
