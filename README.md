@@ -26,7 +26,7 @@ An interactive 3D smart-city intelligence concept built with React, TypeScript, 
 
 My largest ASP.NET Core project so far. It includes a product catalogue, accounts, cart, wishlist, checkout, orders, coupons and admin features. While building it, I spent a lot of time on order access rules, pricing, stock updates and making checkout retries safer.
 
-[Source Code](https://github.com/abdullahazaam/Hamara-Ecommerce)
+[Live Demo](http://hamara-commerce.runasp.net/) ·  [Source Code](https://github.com/abdullahazaam/Hamara-Ecommerce)
 
 ### [PathSeeker](https://github.com/abdullahazaam/Path-Seeker)
 
