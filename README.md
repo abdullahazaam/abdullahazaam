@@ -14,6 +14,12 @@ I'm currently looking for an internship, trainee role or junior developer positi
 
 ## Projects
 
+### [NEXUS 2050](https://nexus-2050.vercel.app)
+
+An interactive 3D smart-city intelligence concept built with React, TypeScript, Three.js and GSAP. It features a procedural city, scroll-driven camera journey, responsive analytics dashboard and a functional urban simulation lab.
+
+[Live Demo](https://nexus-2050.vercel.app) · [Source Code](https://github.com/abdullahazaam/NEXUS-2050)
+
 ### [Hamara Commerce](https://github.com/abdullahazaam/Hamara-Ecommerce)
 
 My largest ASP.NET Core project so far. It includes a product catalogue, accounts, cart, wishlist, checkout, orders, coupons and admin features. While building it, I spent a lot of time on order access rules, pricing, stock updates and making checkout retries safer.
