@@ -1,55 +1,135 @@
 # Abdullah Azaam
 
-I'm a web development student at Aptech in Karachi. I build full-stack applications with ASP.NET Core, C#, SQL Server, PHP and Laravel, alongside interactive frontend experiences with React, TypeScript, Three.js and GSAP. I enjoy working across database design, backend logic and user interfaces, and I deploy projects with Vercel and Railway.
+**Full-Stack Web Developer | ASP.NET Core • C# • SQL Server • Laravel • React • TypeScript**
 
-I'm currently looking for an internship, trainee role or junior developer position where I can learn from an experienced team and contribute to real projects.
+I build complete web applications across backend engineering, databases, APIs and modern frontend experiences. My projects cover e-commerce, career platforms, school portals, interactive 3D experiences and business websites.
 
-## Tools I use
+## Tech Stack
 
-- C#, ASP.NET Core MVC, Entity Framework Core and Web APIs
-- SQL Server and MySQL
-- PHP and Laravel
-- React, TypeScript, Three.js and GSAP
-- HTML, CSS, JavaScript, Tailwind CSS and Bootstrap
-- Vercel and Railway
-- Git, GitHub and automated tests
+### Backend
+- C#
+- ASP.NET Core / ASP.NET Core MVC
+- Web APIs
+- Entity Framework Core
+- PHP
+- Laravel
 
-## Projects
+### Frontend
+- React
+- TypeScript
+- JavaScript
+- HTML5 / CSS3
+- Tailwind CSS
+- Bootstrap
+- Three.js
+- GSAP
+- Framer Motion
 
-### [NEXUS 2050](https://nexus-2050.vercel.app)
+### Databases & Services
+- SQL Server
+- MySQL
+- MongoDB
+- Cloudinary
+- REST APIs
 
-An interactive 3D smart-city intelligence concept built with React, TypeScript, Three.js and GSAP. It features a procedural city, scroll-driven camera journey, responsive analytics dashboard and a functional urban simulation lab.
+### Tools & Deployment
+- Git & GitHub
+- Vite
+- Node.js
+- Vercel
+- Railway
+
+---
+
+## Featured Projects
+
+### 🎬 Fan Hub Plus
+A full-stack fandom platform covering **Anime, Gaming, Movies, TV Shows, K-Pop, Comics, Manga and Cosplay**, with a cinematic interface and structured backend architecture.
+
+**Tech:** React, TypeScript, ASP.NET Core, Entity Framework Core, SQL Server, Three.js
+
+[Source Code](https://github.com/abdullahazaam/Fan-Hub-Plus)
+
+### 🏫 The Torcia School
+A full-stack school website and administration portal with admissions and contact workflows, news/events management, protected admin routes, Cloudinary media handling and email notifications.
+
+**Tech:** Next.js, React, MongoDB, Mongoose, Tailwind CSS, Cloudinary, Nodemailer
+
+[Source Code](https://github.com/abdullahazaam/thetorciaschool)
+
+### 🛒 Hamara Commerce
+A complete e-commerce application with product catalogue, accounts, cart, wishlist, checkout, orders, coupons, inventory workflows and administration features.
+
+**Tech:** ASP.NET Core MVC, C#, Entity Framework Core, SQL Server, Bootstrap, JavaScript
+
+[Live Demo](http://hamara-commerce.runasp.net/) · [Source Code](https://github.com/abdullahazaam/Hamara-Ecommerce)
+
+### 🌆 NEXUS 2050
+An interactive 3D smart-city experience featuring a procedural city, scroll-driven camera journey, responsive analytics interface and an urban simulation lab.
+
+**Tech:** React, TypeScript, Three.js, GSAP
 
 [Live Demo](https://nexus-2050.vercel.app) · [Source Code](https://github.com/abdullahazaam/NEXUS-2050)
 
+### 🎯 PathSeeker
+A Laravel career-guidance platform for students and job seekers with assessments, career suggestions, resources, bookmarks and role-based areas.
 
-### [Hamara Commerce](https://github.com/abdullahazaam/Hamara-Ecommerce)
-
-My largest ASP.NET Core project so far. It includes a product catalogue, accounts, cart, wishlist, checkout, orders, coupons and admin features. While building it, I spent a lot of time on order access rules, pricing, stock updates and making checkout retries safer.
-
-[Live Demo](http://hamara-commerce.runasp.net/) ·  [Source Code](https://github.com/abdullahazaam/Hamara-Ecommerce)
-
-
-### [PathSeeker](https://github.com/abdullahazaam/Path-Seeker)
-
-A Laravel career guidance platform for students and job seekers. It includes assessments, career suggestions, saved resources, bookmarks and role-based areas for users, moderators and administrators.
+**Tech:** Laravel, PHP, MySQL, Blade, Tailwind CSS
 
 [Live Demo](https://path-seeker-production.up.railway.app) · [Source Code](https://github.com/abdullahazaam/Path-Seeker)
 
+### 🎁 E-Greetings
+An ASP.NET Core greeting-card platform where users can select templates, personalise cards and schedule greetings, with subscriptions, account management and administration features.
 
-### [E-Greetings](https://github.com/abdullahazaam/E-Greetings)
-
-An ASP.NET Core greeting-card application where users can choose a template, personalise a card and schedule it. The project also includes subscriptions, account management and an admin area.
+**Tech:** ASP.NET Core MVC, C#, Entity Framework Core, SQL Server, Bootstrap
 
 [Live Demo](http://e-greeting.runasp.net/) · [Source Code](https://github.com/abdullahazaam/E-Greetings)
 
+### 🍽️ Zero Hunger
+A PHP/MySQL food-support platform connecting donors, NGOs and riders through separate dashboards and operational workflows.
 
-## What I'm working on now
+**Tech:** PHP, MySQL, HTML, CSS, JavaScript, Bootstrap
 
-I'm improving my knowledge of Web APIs, automated testing, database design and application deployment. I'm also trying to write clearer documentation and make each project easier for another developer to run.
+[Source Code](https://github.com/abdullahazaam/Zero-Hunger)
 
-## Contact
+### 🌐 Karachi Business Demos
+A collection of polished website concepts created for local businesses, built to demonstrate how existing shops and brands can improve their online presence.
 
-- [LinkedIn](https://www.linkedin.com/in/abdullahazaam-dev/)
-- [All repositories](https://github.com/abdullahazaam?tab=repositories)
+**Tech:** HTML, CSS, JavaScript, responsive web design
 
+[Source Code](https://github.com/abdullahazaam/karachi-business-demos)
+
+### 💼 Personal Portfolio
+My personal developer portfolio focused on a premium cinematic presentation of my work, skills, experience and projects.
+
+**Tech:** React, Three.js, GSAP, modern CSS
+
+[Live Portfolio](https://abdullahazaam-portfolio.vercel.app/) · [Source Code](https://github.com/abdullahazaam/abdullahazaam-portfolio)
+
+---
+
+## What I Work With
+
+```text
+C# / ASP.NET Core       ████████████████████
+SQL Server / EF Core    ████████████████████
+Laravel / PHP           ██████████████████
+React / TypeScript      ██████████████████
+JavaScript / CSS        ██████████████████
+Three.js / GSAP         ████████████████
+Git / GitHub             ██████████████████
+```
+
+## Current Focus
+
+I'm strengthening my backend engineering, Web API development, database architecture, automated testing, application security and production deployment while continuing to build real-world portfolio projects.
+
+## Connect
+
+- **Portfolio:** https://abdullahazaam-portfolio.vercel.app/
+- **LinkedIn:** https://www.linkedin.com/in/abdullahazaam-dev/
+- **GitHub:** https://github.com/abdullahazaam
+
+---
+
+*Building practical software, learning continuously, and improving every project.*
