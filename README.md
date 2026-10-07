@@ -50,6 +50,6 @@ I'm improving my knowledge of Web APIs, automated testing, database design and a
 
 ## Contact
 
-- [LinkedIn](https://linkedin.com/in/abdullah-azaam-76975440a)
+- [LinkedIn](https://www.linkedin.com/in/abdullahazaam-dev/)
 - [All repositories](https://github.com/abdullahazaam?tab=repositories)
 
